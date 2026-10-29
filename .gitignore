@@ -1,0 +1,7 @@
+# Slide decks (kept locally, not published to the repo)
+*.pptx
+*.ppt
+~$*.pptx
+
+# macOS
+.DS_Store
