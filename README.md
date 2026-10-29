@@ -1,4 +1,4 @@
-# SMU Hackathon: AI Workshop & Track Coaching Notebooks
+# SMU Hackathon Prep: AI Workshop & Track Coaching Notebooks
 
 Hands-on Google Colab notebooks for hackathon participants. Start with the core RAG workshop, then join the coaching session for your track. Every notebook builds a working prototype with a Gradio web UI that you can demo to judges.
 
