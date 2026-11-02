@@ -50,5 +50,4 @@ The install cell keeps Colab's own versions of `google-auth` and `opentelemetry`
 ## For Organisers
 
 Before sharing:
-- Replace `YOUR_GITHUB_USER/YOUR_REPO` in each notebook's Colab badge with the real repository path.
 - Run each notebook once in a fresh Colab runtime with a real API key to confirm the model outputs.
