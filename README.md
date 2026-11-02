@@ -28,7 +28,7 @@ Each track notebook is a **~60-minute coaching session** and ends with:
 
 ## Tech Stack
 
-- **Gemini API** via the `google-genai` SDK (model `gemini-2.5-flash`, set in one `MODEL` constant per notebook)
+- **Gemini API** via the `google-genai` SDK (model `gemini-3.6-flash`, set in one `MODEL` constant per notebook)
 - **ChromaDB 1.5.9**: vector database (core workshop and Track 2)
 - **Gradio 6.29.1**: web UI
 - **pandas, scikit-learn, matplotlib, Pillow, pydantic**: already installed in Colab
